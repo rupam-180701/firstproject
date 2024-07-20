@@ -1,3 +1,1 @@
-# firstproject
-This is my first repository.
-Author: Rupam
+This is my first project.
